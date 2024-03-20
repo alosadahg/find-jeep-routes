@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.jeep-logo {
+  margin: auto;
+  width: 35%;
+  height: 35%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
